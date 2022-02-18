@@ -26,5 +26,14 @@ Word document -> Project document
 
       4.1. Clone project 
                   Clone git : https://github.com/Eswar30/Pokemon-Project.git
-      4.2 Open src 
+      4.2 Open src -->Component -->data-->to run this command npm install after use this command npm start .
+            Before open the project need to install these packages : npx create-react-app pokeman, npm install react-paginate. 
+            
+5. Output screenshot 
+
+      To search the pokemon list : For example : Bulbasaur
+      
+      ![Pokemon search](https://user-images.githubusercontent.com/94758608/154746897-ce6ea4da-c15d-4a1f-922c-836de7068302.PNG)
+
+
 

@@ -16,7 +16,7 @@ Word document -> Project document
             
             Application Screenshot:
             
-            ![Overview of Pokemon Project](https://user-images.githubusercontent.com/94758608/154747262-8db29db4-95fa-4ba0-98c4-9efde1c6bff9.PNG)
+            ![Overview](https://user-images.githubusercontent.com/94758608/154747491-7658f592-2c2e-4b83-ae20-fc779a65a522.PNG)
 
             
 3.  Project git Repositories:
@@ -34,11 +34,14 @@ Word document -> Project document
       4.2 Open src -->Component -->data-->to run this command npm install after use this command npm start .
             Before open the project need to install these packages : npx create-react-app pokeman, npm install react-paginate. 
             
-5. Output screenshot 
-
+5. Output screenshot:
+     
       To search the pokemon list : For example : Bulbasaur
       
       ![Pokemon search](https://user-images.githubusercontent.com/94758608/154746897-ce6ea4da-c15d-4a1f-922c-836de7068302.PNG)
+      
+         
+
 
 
 

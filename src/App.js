@@ -82,7 +82,7 @@ function App() {
          
             
     {displayPokemons}
-    <div style={{ height: 700, width: '200%' }}>
+    <div style={{ height: 1000, width: '200%' }}>
       <h4>
         
       </h4>
